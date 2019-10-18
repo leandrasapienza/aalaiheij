@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cuvahdeey.johnhenrygunther.com/sitemap.xml
